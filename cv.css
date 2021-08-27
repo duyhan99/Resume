@@ -46,6 +46,10 @@ body {
   height: 280px;
 }
 
+a{
+  text-decoration: none;
+  color: #b1eaff;
+}
 .resume .resume_left .resume_profile img {
   width: 100%;
   height:100%;
